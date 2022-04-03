@@ -1,0 +1,12 @@
+Using HDInsight and Hive the following transformations were performed.
+
+1)	
+	a) Created a new table for your analysis call “sales_genre”.  
+	b) Loaded the table “sales” into this table.
+	c) Selected these only these columns: Genre, Global_Sales, Critic_Score.  
+ 
+2) Rounded the data found in the “Global_Sales” column.  
+
+3) Filtered the data to only look at those items in the “Critic_Score” column that are greater than 0.
+
+4) Ordered the data in the “Critic_Score” column from highest to lowest. 
