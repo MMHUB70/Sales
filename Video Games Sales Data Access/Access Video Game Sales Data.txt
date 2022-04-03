@@ -1,6 +1,0 @@
-About Dataset
-
-Video Game Sales with Ratings
-Video game sales from Vgchartz and corresponding ratings from Metacritic
-
-Please visit https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings to download the dataset.
